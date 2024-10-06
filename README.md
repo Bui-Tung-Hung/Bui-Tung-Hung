@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tùng Hưng</h1>
-<h3 align="center">I have a strong interest in AI advancements and machine learning applications. Experience in Machine Learning, Deep Learning, Computer Vision and Web App Development. Desire to put the impressive ideas in Deep Learning/Computer Vision papers into practice by applying them to people-friendly platforms such as web apps, mobile apps,...</h3>
+<h3 align="center">>I have a strong interest in AI advancements and machine learning applications. Experience in Machine Learning, Deep Learning, Computer Vision and Web App Development. Desire to put the impressive ideas in Deep Learning/Computer Vision papers into practice by applying them to people-friendly platforms such as web apps, mobile apps,...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bui-tung-hung&label=Profile%20views&color=0e75b6&style=flat" alt="bui-tung-hung" /> </p>
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bui-tung-hung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bui-tung-hung/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
